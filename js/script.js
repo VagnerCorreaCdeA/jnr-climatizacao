@@ -34,7 +34,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 
 // Configuração de E-mail Dinâmico
-const companyEmail = "jnrarcondicionado@gmail.com";
+const companyEmail = "vagnercorreafdealmeida@gmail.com";
 
 function populateEmail() {
     // Insere o e-mail como texto
